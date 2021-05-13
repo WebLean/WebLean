@@ -5,18 +5,8 @@ DevOps 가능한 BackEnd 개발자가 꿈인 사람과 ~~한 사람의 콜라보
 
 ### s01va 목표
 
-<<<<<<< Updated upstream
 - Node.js 익히기
-=======
-- Node.js로 전반적인 웹 구축
->>>>>>> Stashed changes
 - 간단한 DB 생성 및 연동
 - 모니터링 환경 구축
 - docker-k8s 환경구축
 - CI/CD 구축
-
-<<<<<<< Updated upstream
-CI/CD환경 구축해보기
-=======
-CI/CD환경 구축해보기8
->>>>>>> Stashed changes
